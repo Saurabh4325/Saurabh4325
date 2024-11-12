@@ -10,11 +10,11 @@
 
 - 📫 How to reach me **sbhk4325@gmail.com**
 
-- **⚡ Fun fact My quiet nature allows me to be highly observant, noticing the small details that can go unnoticed by others.**
+- ⚡ Fun fact **My quiet nature allows me to be highly observant, noticing the small details that can go unnoticed by others.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saurabh-kumar-597637258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurabh-kumar-597637258/" height="30" width="40" /></a>
+<a href="saurabh-kumar-597637258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurabh-kumar-597637258/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
